@@ -73,7 +73,7 @@ I am an Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <!-- BLOG-POST-LIST:END -->
 
 
-
+<!--
 References:
 https://www.sitepoint.com/github-profile-readme/
 https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg
