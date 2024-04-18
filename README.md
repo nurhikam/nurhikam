@@ -27,7 +27,7 @@
 </div>
 
 ---
-
+<!--
 ### :man_technologist: About Me : 
 
 I am an Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
@@ -58,7 +58,7 @@ I am an Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
 
 ---
-
+-->
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nurhikam&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -66,14 +66,14 @@ I am an Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurhikam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+<!--
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-<!--
+
 References:
 https://www.sitepoint.com/github-profile-readme/
 https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg
