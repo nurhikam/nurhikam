@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="400" height="300"/>
-</div>
+
 
 ---
 <!--
@@ -65,6 +65,7 @@ I am an Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurhikam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 ---
 <!--
 ### :writing_hand: Blog Posts :
