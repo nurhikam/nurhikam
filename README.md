@@ -18,27 +18,37 @@
   </h1>
 
 </div>
-
+ 
 <div align="center">
   <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="400" height="300"/>
 
-### :hammer_and_wrench: Tech Stack and Tools :
+## :hammer_and_wrench: Tech Stack and Tools :
 
-[![Tech Stack & Tools](https://skillicons.dev/icons?i=py,html,css,js,ts,react,flask,fastapi,tensorflow,mysql,mongodb,sqlite,nodejs,gcp,firebase,postman,git,github,java,vscode,windows&perline=10)](https://skillicons.dev)
+[![Tech Stack & Tools](https://skillicons.dev/icons?i=py,html,css,js,ts,react,flask,fastapi,tensorflow,mysql,mongodb,sqlite,nodejs,gcp,firebase,postman,git,github,java,vscode&perline=10)](https://skillicons.dev)
 
-### :fire: My Stats :
+## :fire: My Stats :
 
+<div align="center">
+   <a href="https://git.io/streak-stats">
+     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=nurhikam&theme=dark&background=000000"/>
+   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhikam&layout=compact&theme=vision-friendly-dark"/>
+   </a>
+</div>
+
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nurhikam&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurhikam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 References:
 https://www.sitepoint.com/github-profile-readme/
 https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg
@@ -55,6 +65,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <!--
