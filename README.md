@@ -61,6 +61,18 @@ const nurhikam = {
 
 </div>
 
+<div align="center">
+
+<!-- RAG / LLM Stack — skillicons doesn't cover these, so shields.io -->
+<img src="https://img.shields.io/badge/Qdrant-VectorDB-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="Langfuse"/>
+<img src="https://img.shields.io/badge/RAG-Architecture-7B2CBF?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+
+</div>
+
 <details>
 <summary><b>🧩 Full Stack Breakdown</b></summary>
 <br/>
@@ -68,8 +80,9 @@ const nurhikam = {
 **Languages:** Python • TypeScript • JavaScript • Java • HTML/CSS  
 **Frontend:** React • Next.js • TailwindCSS  
 **Backend:** FastAPI • Flask • Node.js • Hono  
-**AI / ML:** TensorFlow • LLM Agents • MCP  
-**Data:** MySQL • MongoDB • SQLite • Supabase  
+**AI / LLM & RAG:** LangChain • LangGraph • Langfuse • Qdrant • OpenAI API • RAG Pipelines • MCP  
+**ML:** TensorFlow  
+**Data:** MySQL • MongoDB • SQLite • Supabase • Qdrant (Vector DB)  
 **Infra:** GCP • Firebase • Docker • Git/GitHub  
 **Tools:** VS Code • Postman
 
@@ -99,19 +112,19 @@ const nurhikam = {
 ## :fire: My Stats :
 
 <div align="center">
-  <a href="https://github.com/nurhikam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurhikam&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://streak-stats.demolab.com?user=nurhikam&theme=dark&background=000000&hide_border=true" alt="Streak Stats"/>
-  </a>
+  <!-- streak: this one works (demolab) -->
+  <img src="https://streak-stats.demolab.com?user=nurhikam&theme=dark&background=000000&hide_border=true" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhikam&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000" alt="Top Languages"/>
-  </a>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=nurhikam&theme=github-compact&bg_color=000000&hide_border=true&color=58A6FF" alt="Activity Graph"/>
+  <!-- github-readme-stats via working fork (anuraghazra host) -->
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nurhikam&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nurhikam&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <!-- ghchart is reliable for activity -->
+  <img src="https://ghchart.rshah.org/000000/nurhikam" alt="Activity Chart"/>
 </div>
 
 ---
