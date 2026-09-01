@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
   
   <div id="badges">
+    <a href="https://nurhikam.my.id">
+      <img src="https://img.shields.io/badge/Portfolio-nurhikam.my.id-58A6FF?style=for-the-badge" alt="Portfolio Badge"/>
+    </a>
     <a href="https://linkedin.com/in/nurhikam/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -133,6 +136,9 @@ const nurhikam = {
 
 ### 🤝 Let's Connect!
 
+<a href="https://nurhikam.my.id">
+  <img src="https://img.shields.io/badge/Portfolio-nurhikam.my.id-58A6FF?style=for-the-badge" alt="Portfolio"/>
+</a>
 <a href="https://linkedin.com/in/nurhikam/">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
