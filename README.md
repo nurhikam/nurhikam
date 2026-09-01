@@ -60,7 +60,7 @@ const nurhikam = {
 
 <div align="center">
 
-[![Tech Stack & Tools](https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,fastapi,flask,tensorflow,docker,gcp,firebase,supabase,mysql,mongodb,sqlite,git,github,postman,vscode&perline=10)](https://skillicons.dev)
+[![Tech Stack & Tools](https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,nodejs,bun,vite,fastapi,flask,tensorflow,aws,docker,postgres,supabase,mysql,mongodb,sqlite,gcp,firebase,git,github,postman,vscode&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -81,12 +81,12 @@ const nurhikam = {
 <br/>
 
 **Languages:** Python • TypeScript • JavaScript • Java • HTML/CSS  
-**Frontend:** React • Next.js • TailwindCSS  
-**Backend:** FastAPI • Flask • Node.js • Hono  
+**Frontend:** React • Next.js • TailwindCSS • Vite  
+**Backend:** FastAPI • Flask • Node.js • Bun • Hono  
 **AI / LLM & RAG:** LangChain • LangGraph • Langfuse • Qdrant • OpenAI API • RAG Pipelines • MCP  
 **ML:** TensorFlow  
-**Data:** MySQL • MongoDB • SQLite • Supabase • Qdrant (Vector DB)  
-**Infra:** GCP • Firebase • Docker • Git/GitHub  
+**Data:** PostgreSQL • Supabase • MySQL • MongoDB • SQLite • Qdrant (Vector DB)  
+**Infra:** AWS • GCP • Firebase • Docker • Git/GitHub  
 **Tools:** VS Code • Postman
 
 </details>
