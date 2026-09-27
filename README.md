@@ -27,7 +27,7 @@
 
   <p>
     <em>AI Engineer • Builder • Second Brain enthusiast</em><br/>
-    📍 Indonesia • 🏢 <a href="https://github.com/simplify">@simplify</a>
+    📍 Indonesia • 🏢 <a href="https://simplifyai.id">@simplifyAI</a>
   </p>
 </div>
 
