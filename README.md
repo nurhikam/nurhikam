@@ -49,7 +49,7 @@ const nurhikam = {
 };
 ```
 
-- 🔭 Currently working on **MCP tools, AI-Trader & second-brain-live**
+- 🔭 Currently working on **[Snap Money](https://snap.looma.id), [Flex](https://flex.looma.id) & MCP tools**
 - 🌱 Exploring **agent skills & autonomous workflows**
 - 💬 Ask me about **Python, TypeScript, AI Agents, Trading Bots**
 - 📫 Reach me via **LinkedIn / Instagram** above
@@ -99,16 +99,18 @@ const nurhikam = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**gsuite2router**](https://github.com/nurhikam/gsuite2router) | Bulk-add Google Workspace accounts to 9Router Antigravity via automated OAuth | `Python` `OAuth` `CLI` |
+| [**Snap Money**](https://snap.looma.id) · live | Expense tracking over Telegram and web. Receipt photos read by a vision model (tesseract fallback), confirmed by the user before saving; a daily budget-guard agent projects category overspend and sends a plan | `Python` `Flask` `LLM` `Telegram` |
+| [**Flex**](https://flex.looma.id) · live | AI nutrition coach: log meals from a sentence or a photo. A weekly autopilot agent adjusts targets within written limits, logs every change and supports undo | `FastAPI` `React` `LLM` |
+| [**framedeck**](https://github.com/nurhikam/framedeck) | Turns a video into the few distinct frames worth looking at, for coding agents that can't watch video. Ships an MCP server | `Python` `MCP` |
+| [**mcp-ig-extract**](https://github.com/nurhikam/mcp-ig-extract) | MCP server: Instagram post/reel/carousel → caption, per-slide OCR, structured screener filters | `TypeScript` `MCP` `OCR` |
+| [**memengine**](https://github.com/nurhikam/memengine) | Long-term memory engine for agents: episodic, semantic, working and preference memory with scoping and pluggable storage | `TypeScript` |
+| [**gsuite2router**](https://github.com/nurhikam/gsuite2router) | Fork of [mhiqrambg/gsuite2router](https://github.com/mhiqrambg/gsuite2router). I added a Playwright engine for headless bulk onboarding and per-account result summaries | `Python` `Playwright` |
 | [**second-brain-live**](https://github.com/nurhikam/second-brain-live) | Public Obsidian second brain built with Quartz | `TypeScript` `Quartz` |
-| [**AI-Trader**](https://github.com/nurhikam/AI-Trader) | 100% Fully-Automated Agent-Native Trading | `Python` `AI Agents` |
-| [**mcp-tools**](https://github.com/nurhikam/mcp-tools) | Collection of my MCP tools for Claude & agents | `TypeScript` `MCP` |
-| [**memengine**](https://github.com/nurhikam/memengine) | Memory engine for agents | `TypeScript` |
 | [**Car-Counter-YOLOv8**](https://github.com/nurhikam/Car-Counter-YOLOv8) | Real-time car detection & counting with YOLOv8 | `Python` `YOLO` `OpenCV` |
 
-</div>
+<sub>Snap Money and Flex are private repos; happy to walk through the code on request.</sub>
 
-> 📌 *Pin favorit lu di GitHub biar muncul di profile grid juga, bray!*
+</div>
 
 ---
 
