@@ -122,9 +122,9 @@ const nurhikam = {
 </div>
 
 <div align="center">
-  <!-- github-readme-stats via working fork (anuraghazra host) -->
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=nurhikam&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=nurhikam&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000" alt="Top Languages"/>
+  <!-- generated daily by .github/workflows/profile-cards.yml, no third-party host to rate-limit -->
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages"/>
 </div>
 
 <div align="center">
