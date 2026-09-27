@@ -99,8 +99,8 @@ const nurhikam = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Snap Money**](https://snap.looma.id) · live | Expense tracking over Telegram and web. Receipt photos read by a vision model (tesseract fallback), confirmed by the user before saving; a daily budget-guard agent projects category overspend and sends a plan | `Python` `Flask` `LLM` `Telegram` |
-| [**Flex**](https://flex.looma.id) · live | AI nutrition coach: log meals from a sentence or a photo. A weekly autopilot agent adjusts targets within written limits, logs every change and supports undo | `FastAPI` `React` `LLM` |
+| [**Snap Money**](https://snap.looma.id) · live product | Track spending by chat, receipt photo or voice note, with an AI budget guard that warns before a category runs over | `SaaS` `AI agent` |
+| [**Flex**](https://flex.looma.id) · live product | AI nutrition coach: log meals from a sentence or a photo, and let it adjust your targets as your weight changes | `SaaS` `AI agent` |
 | [**framedeck**](https://github.com/nurhikam/framedeck) | Turns a video into the few distinct frames worth looking at, for coding agents that can't watch video. Ships an MCP server | `Python` `MCP` |
 | [**mcp-ig-extract**](https://github.com/nurhikam/mcp-ig-extract) | MCP server: Instagram post/reel/carousel → caption, per-slide OCR, structured screener filters | `TypeScript` `MCP` `OCR` |
 | [**memengine**](https://github.com/nurhikam/memengine) | Long-term memory engine for agents: episodic, semantic, working and preference memory with scoping and pluggable storage | `TypeScript` |
@@ -108,7 +108,7 @@ const nurhikam = {
 | [**second-brain-live**](https://github.com/nurhikam/second-brain-live) | Public Obsidian second brain built with Quartz | `TypeScript` `Quartz` |
 | [**Car-Counter-YOLOv8**](https://github.com/nurhikam/Car-Counter-YOLOv8) | Real-time car detection & counting with YOLOv8 | `Python` `YOLO` `OpenCV` |
 
-<sub>Snap Money and Flex are private repos; happy to walk through the code on request.</sub>
+<sub>Snap Money and Flex are commercial products by <a href="https://looma.id">Looma</a>; source is private.</sub>
 
 </div>
 
