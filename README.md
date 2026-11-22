@@ -22,7 +22,7 @@
 
   <!-- typing animation -->
   <a href="https://github.com/nurhikam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hi!+just+code.;+Building+AI+Agents+%26+MCP+Tools;+Second+Brain+%2B+Trading+%2B+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hi!+just+code.;+Building+AI+Agents+%26+MCP+Tools;+Second+Brain+%2B+%2B+Automation" alt="Typing SVG" />
   </a>
 
   <p>
