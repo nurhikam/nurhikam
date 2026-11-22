@@ -42,8 +42,8 @@
 ```ts
 const nurhikam = {
   role: "AI Engineer / Builder",
-  focus: ["AI Agents", "MCP Servers", "Trading Automation", "Second Brain"],
-  currently: "Building agent-native tools & trading systems",
+  focus: ["AI Agents", "MCP Servers", "Second Brain"],
+  currently: "Building agent-native tools systems",
   learning: "Agent Skills, MCP, LLM Orchestration",
   funFact: "hi! just code. ✨"
 };
@@ -51,7 +51,7 @@ const nurhikam = {
 
 - 🔭 Currently working on **[Snap Money](https://snap.looma.id), [Flex](https://flex.looma.id) & MCP tools**
 - 🌱 Exploring **agent skills & autonomous workflows**
-- 💬 Ask me about **Python, TypeScript, AI Agents, Trading Bots**
+- 💬 Ask me about **AI Agents**
 - 📫 Reach me via **LinkedIn / Instagram** above
 
 ---
